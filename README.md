@@ -3,5 +3,6 @@
 List of models
 
 
-1. https://github.com/khursani8/models/blob/master/ic_small/model.json
-2. https://github.com/khursani8/models/blob/master/ic/model.json
+1. https://raw.githubusercontent.com/khursani8/models/master/ic_small/model.json
+2. https://raw.githubusercontent.com/khursani8/models/master/ic/model.json
+3. https://raw.githubusercontent.com/khursani8/models/master/retinanet_ic/model.json
