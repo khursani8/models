@@ -9,3 +9,4 @@ List of models
 4. https://raw.githubusercontent.com/khursani8/models/master/mobile128_ic/model.json
 5. https://raw.githubusercontent.com/khursani8/models/master/mobilenet224_ic/model.json
 6. https://raw.githubusercontent.com/khursani8/models/master/mobilenet_PC/model.json
+7. https://raw.githubusercontent.com/khursani8/models/master/mobilenet224_ic_noq/model.json
