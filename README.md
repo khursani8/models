@@ -11,4 +11,4 @@ List of models
 6. https://raw.githubusercontent.com/khursani8/models/master/mobilenet_PC/model.json
 7. https://raw.githubusercontent.com/khursani8/models/master/mobilenet224_ic_noq/model.json
 8. https://raw.githubusercontent.com/khursani8/models/master/resnet50_uint8_ic/model.json
-9. https://raw.githubusercontent.com/khursani8/models/master/resnet18_uint8/model.json
+9. https://raw.githubusercontent.com/khursani8/models/master/resnet18_ic_uint8/model.json
